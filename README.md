@@ -1,4 +1,4 @@
-# React Homework_21
+# React Homework_21 (Questionnaire App)
 
 Проект создан на базе [Vite](https://vitejs.dev/) и [React 19](https://react.dev). Для управления состоянием используется [Redux Toolkit](https://redux-toolkit.js.org) и [React Redux](https://react-redux.js.org).
 
