@@ -13,8 +13,8 @@ const initialState = {
       id: 2,
       text: "Что делает useEffect с пустым массивом зависимостей []?",
       options: [
-        "Выполняется один раз при монтировании",
         "Запускается при каждом рендере",
+        "Выполняется один раз при монтировании",
       ],
       correct: "Выполняется один раз при монтировании",
       selected: null,
@@ -40,7 +40,7 @@ const initialState = {
     {
       id: 5,
       text: "Какой метод используется для рендеринга React-приложения в DOM?",
-      options: ["ReactDOM.createRoot(...).render(...)", "renderDOM()"],
+      options: ["renderDOM()", "ReactDOM.createRoot(...).render(...)"],
       correct: "ReactDOM.createRoot(...).render(...)",
       selected: null,
     },
